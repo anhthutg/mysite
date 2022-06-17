@@ -2,5 +2,5 @@
 https://anhthutg.github.io/mysite/
 
 ### This webpage is using
-- HTML basic + intermediate
-- CSS basic + intermediate
+- HTML
+- CSS
